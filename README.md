@@ -4,8 +4,6 @@
 [![GitHub repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/EdgarHS290621/examples-matlab-to-python)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository showcases examples of translating simple but representative MATLAB scripts into clean, modular Python code.
-
 
 Author
 Noelia Sierra Cuza | Geophysical Engineer
