@@ -39,5 +39,5 @@ Each folder includes:
 Install the Python dependencies via:
 
 ```bash
-pip install -r requirements.txt
+pip install -r Requirements.txt
 
